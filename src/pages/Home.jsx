@@ -6,7 +6,7 @@ function Home() {
   useEffect(() => {
     document.title = `Clicks: ${count}`;
     
-    console.log("Main har click par chalta hoon!");
+    console.log("clicked work here");
   }, [count]);
 
   return (
