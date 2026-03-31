@@ -12,7 +12,7 @@ function Home() {
   return (
     <div style={styles.container}>
       <h1>🏠 Home Page</h1>
-      <p>Welcome to the Home Page!</p>
+    
       
       <div style={styles.card}>
         <h2>Counter Demo</h2>
